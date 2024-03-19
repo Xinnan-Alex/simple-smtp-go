@@ -1,0 +1,1 @@
+## A Simple Golang Email Sender with HTML Content using just the SMTP Standard Library
